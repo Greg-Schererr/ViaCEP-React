@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+    background: white;
+}
+
+h1 {
+  color: black;
+}
+
+main {
+    margin: 40px;
+}
+
+input {
+    padding: 8px;
+    border: 1px solid black;
+}
+
+button {
+    padding: 8px 12px;
+    margin-left: 5px;
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #333;
+}
